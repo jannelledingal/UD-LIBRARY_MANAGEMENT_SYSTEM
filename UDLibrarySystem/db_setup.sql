@@ -1,4 +1,4 @@
--- SQL script to create ud_library_db and tables (run in phpMyAdmin)
+-- First SQL script draft to create ud_library_db and tables (run in phpMyAdmin)
 CREATE DATABASE IF NOT EXISTS ud_library_db;
 USE ud_library_db;
 CREATE TABLE admins (admin_id INT AUTO_INCREMENT PRIMARY KEY, username VARCHAR(50), password VARCHAR(100));
