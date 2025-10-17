@@ -64,6 +64,9 @@ It replaces traditional manual methods with a more efficient, data-driven system
 
 
 
+<img width="357" height="609" alt="image" src="https://github.com/user-attachments/assets/63ec2899-d9f9-4f4b-81a9-3f2da9e9685a" />
+
+
 
 
 ---
