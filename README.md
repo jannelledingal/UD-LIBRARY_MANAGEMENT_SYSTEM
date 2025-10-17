@@ -166,7 +166,7 @@ It replaces traditional manual methods with a more efficient, data-driven system
 
 ## 🧱 Revisions Based on Panel Recommendations 
 
-| No. | Recommendation                                                           | Revision Implemented                                                                      |
+| No. | Recommendation                                                           | Revision will be Implemented                                                                      |
 | --- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
 |  1  | Make the “Category” field (in Manage Books form) a drop-down.            | Replaced text input with a **JComboBox** containing predefined categories.                |
 |  2  | Remove system running time from the interface (UI); keep it in terminal. | Removed all runtime labels from GUI; logs now display only in the **console**.            |
