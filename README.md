@@ -24,10 +24,10 @@ It replaces traditional manual methods with a more efficient, data-driven system
 <img width="1365" height="717" alt="image" src="https://github.com/user-attachments/assets/6549175a-5320-4d01-846e-89504f8801bb" />
 
 
-<img width="1365" height="715" alt="image" src="https://github.com/user-attachments/assets/f6cff501-bd54-4772-964b-cb805b43a6e3" />
+<img width="1365" height="716" alt="image" src="https://github.com/user-attachments/assets/c8368d37-f61b-4c43-996c-d615ef399645" />
 
 
-<img width="1365" height="718" alt="image" src="https://github.com/user-attachments/assets/dc5c4d13-176a-4fc0-a36a-cae99296b1ba" />
+<img width="1365" height="716" alt="image" src="https://github.com/user-attachments/assets/28fed827-4c1e-4ef2-b876-eaf848993dfc" />
 
 
 <img width="1365" height="716" alt="image" src="https://github.com/user-attachments/assets/3d989711-ffe4-4b10-9a72-79d8e835402a" />
