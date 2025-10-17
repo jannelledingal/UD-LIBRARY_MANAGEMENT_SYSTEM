@@ -107,7 +107,7 @@ It replaces traditional manual methods with a more efficient, data-driven system
    - Referenced Libraries
         - mysql-connector-j-9.4.0.java
    - scripts
-        - ud_library_db.sql
+        - udlib_fullcurrent_script.sql
        
 ---
 
