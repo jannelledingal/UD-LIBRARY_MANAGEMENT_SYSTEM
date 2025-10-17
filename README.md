@@ -17,7 +17,54 @@ It replaces traditional manual methods with a more efficient, data-driven system
 
 ## 🖼️ System Preview
 
-*(Add screenshots here — e.g., Home Page, Admin Login, Manage Books, Reports, etc.)*  
+
+<img width="1365" height="717" alt="image" src="https://github.com/user-attachments/assets/d5a75cc2-e4be-492b-8c75-45170363f0e4" />
+
+
+<img width="1365" height="717" alt="image" src="https://github.com/user-attachments/assets/6549175a-5320-4d01-846e-89504f8801bb" />
+
+
+<img width="1365" height="718" alt="image" src="https://github.com/user-attachments/assets/dc5c4d13-176a-4fc0-a36a-cae99296b1ba" />
+
+
+<img width="1365" height="716" alt="image" src="https://github.com/user-attachments/assets/3d989711-ffe4-4b10-9a72-79d8e835402a" />
+
+
+<img width="1365" height="712" alt="image" src="https://github.com/user-attachments/assets/ce752086-f518-424a-89df-b0c0fc64bbd9" />
+
+
+<img width="1365" height="714" alt="image" src="https://github.com/user-attachments/assets/e8d0ba9f-301d-4dfe-82a0-fd3d9d2a3695" />
+
+
+<img width="1365" height="716" alt="image" src="https://github.com/user-attachments/assets/653e5fcb-a17b-4dbd-a44e-dc0007ce8e4e" />
+
+
+<img width="1365" height="715" alt="image" src="https://github.com/user-attachments/assets/2067bb1d-229a-4e65-8e80-ddd1a8004e93" />
+
+
+<img width="1365" height="716" alt="image" src="https://github.com/user-attachments/assets/d81db229-9b4b-4754-baf4-7efaa25ae4f7" />
+
+
+<img width="1365" height="715" alt="image" src="https://github.com/user-attachments/assets/3aa2522b-43dc-488c-ad10-ce7d72b2c475" />
+
+
+<img width="1365" height="714" alt="image" src="https://github.com/user-attachments/assets/1276d02d-d684-420c-bbac-8005a2a938e7" />
+
+
+<img width="1365" height="715" alt="image" src="https://github.com/user-attachments/assets/a353ef81-b715-4dbc-97cb-a7b385570057" />
+
+
+<img width="1365" height="718" alt="image" src="https://github.com/user-attachments/assets/60cefa4d-02fb-410f-855b-4c30f0f3acd8" />
+
+
+<img width="1365" height="716" alt="image" src="https://github.com/user-attachments/assets/dbab79ef-63ad-4a1a-9719-2c800af75b95" />
+
+
+<img width="1365" height="716" alt="image" src="https://github.com/user-attachments/assets/cd6f8d6f-9430-4792-ab32-17531a20d9f2" />
+
+
+
+
 
 ---
 
